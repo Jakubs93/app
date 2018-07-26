@@ -1,0 +1,11 @@
+body
+{
+	padding:70px;
+}
+.error
+{
+	font-size: 15px;
+	color:red;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
